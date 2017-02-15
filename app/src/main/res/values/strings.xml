@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sqlite_android</string>
+    <string name="lblGasto">Gasto</string>
 </resources>
